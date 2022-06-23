@@ -1,0 +1,2 @@
+# tip-calculator
+learning python
